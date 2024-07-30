@@ -1,0 +1,114 @@
+/* *{
+    margin: 0%;
+    padding: 0%;
+}
+.txt1{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+#row2{
+    background-color: rgb(216, 216, 121);
+    margin-top: 0%;
+    height: 300px;
+    width: 100%;
+    margin-left: 0px;
+}
+label,select,input{
+    margin-top: 10px;
+} */
+
+
+
+/* .txt1{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+#row2{
+    background-color: rgb(216, 216, 121);
+} */
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+   
+}
+
+h2 {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.form-row {
+    margin-bottom: 10px;
+}
+
+label {
+    display: inline-block;
+    width: 70px;
+    text-align: right;
+    margin-right: 10px;
+}
+
+input, select {
+    padding: 5px;
+    width: 200px;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: darkblue;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: blue;
+    color: white;
+}
+
+td a {
+    color: red;
+    cursor: pointer;
+}
+/* .form-row1{
+    float: right;
+}
+.form-row2{
+    float: right;
+} */
+button{
+    margin-left: 600px;
+}
+
